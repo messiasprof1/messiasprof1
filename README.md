@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @messiasprof1
-- 👀 I’m interested in data science
+- 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning python, sql, r, java, pandas, c++.
 - 💞️ I’m looking to collaborate on administration, my graduation.
 - 📫 How to reach me email messias@jjcafe.com.br, cell (15)99795-4949
